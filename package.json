@@ -41,7 +41,7 @@
   "dependencies": {
     "commenting": "~1.1.0",
     "glob": "~7.2.0",
-    "lodash": "~4.17.21",
+    "lodash": "~4.18.1",
     "magic-string": "~0.30.0",
     "mkdirp": "~3.0.0",
     "moment": "~2.29.3",
