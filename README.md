@@ -8,7 +8,7 @@ Rollup plugin that can be used to:
 - Prepend a banner from a file.
 - Create a file containing all third-parties used in the bundle (and display the license of each dependency).
 
-This repo is managed and released using github semantic release.  PR titles should be prepended with `fix`, `feat` or `perf` for patch, minor, and major version changes.
+This repo is managed and released using github semantic release.  PR titles should be prepended with `fix: `, `feat: ` or `perf: ` for patch, minor, and major version changes.
 
 ## How to use
 
